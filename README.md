@@ -23,4 +23,4 @@
 ### Sobre mim
 Meu nome é Daniel Pessoa de Oliveira, tenho 20 anos e pretendo continuar na área de tecnologia. Tenho interesse não apenas em Tecnologia da Informação, mas também em robótica, pois acredito que unir software e hardware amplia minhas possibilidades de aprendizado e atuação profissional. Busco desenvolver conhecimentos que me permitam criar soluções inovadoras, inteligentes e aplicáveis ao mundo real.
 
-My name is Daniel Pessoa de Oliveira, I am 18 years old, and I want to continue in the technology field. I am interested not only in Information Technology but also in robotics, as I believe that combining software and hardware expands my learning and professional opportunities. I aim to develop skills that allow me to create innovative, intelligent, and real-world solutions.
+My name is Daniel Pessoa de Oliveira, I am 20 years old, and I want to continue in the technology field. I am interested not only in Information Technology but also in robotics, as I believe that combining software and hardware expands my learning and professional opportunities. I aim to develop skills that allow me to create innovative, intelligent, and real-world solutions.
