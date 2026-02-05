@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=83002C&width=435&lines=Ol%C3%A1!;Sou+Daniel+Pessoa+de+Oliveira" width="600px" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=83002C&width=435&lines=Hello!🥓;I+am+Daniel+Pessoa+de+Oliveira" width="600px" />
 </div>
 
 ### Skills
